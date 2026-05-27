@@ -35,7 +35,8 @@ Predict the expected freight cost for a vendor invoice using quantity, invoice v
 - Poor freight estimation impacts margin analysis and budgeting.
 - Early prediction improves procurement planning and vendor negotiation.
 
-![](images/freight_prediction.png)
+![](images/freight_prediction.png) <img width="1402" height="689" alt="freight_prediction" src="https://github.com/user-attachments/assets/5db2308a-0988-48ad-bf1f-3cb695575b11" />
+
 ---
 
 ### 2. Invoice Risk Flagging (Classification)
@@ -48,7 +49,8 @@ Predict whether a vendor invoice should be flagged for manual approval due to ab
 - Financial leakage often occurs in large or complex invoices.
 - Early risk detection improves audit efficiency and operational control.
 
-![](images/flag_invoice_prediction.png)
+![](images/flag_invoice_prediction.png) <img width="1395" height="701" alt="flag_invoice_prediction" src="https://github.com/user-attachments/assets/71cc9477-c45c-4c66-b032-24c3e60be1e5" />
+
 ---
 
 <h2><a class="anchor" id="data-sources"></a>📂 Data Sources</h2>
@@ -161,7 +163,7 @@ inventory-invoice-analytics/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/inventory-invoice-analytics.git
+ggit clone https://github.com/Shivam9927/vendor-invoice-intelligence-system.git
 ```
 2. Train and Save Best Fit Models:
 ```bash
@@ -181,11 +183,13 @@ streamlit run app.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Shivam Pawar**  
 Data Scientist  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+MS Data Science & Analytics, California State University, Chico
+
+📧 Email: [shivampawars@gmail.com](mailto:shivampawars@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/shivam-pawar09](https://linkedin.com/in/shivam-pawar09/)  
+🐙 GitHub: [github.com/Shivam9927](https://github.com/Shivam9927)
 
 
 
